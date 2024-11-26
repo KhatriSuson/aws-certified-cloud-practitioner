@@ -82,6 +82,48 @@ A healthcare organization uses Amazon SageMaker to develop predictive models tha
 
 ---
 
+### 7. Amazon Textract
+- **Purpose**: A service that uses machine learning to automatically extract text and data from scanned documents, images, and PDFs.
+
+#### Key Features:
+- Supports document analysis and data extraction.
+- Can extract data from tables, forms, and receipts.
+- Integrates with AWS services for data processing and analysis.
+
+#### Real-Life Example:
+A financial institution uses Amazon Textract to extract data from loan applications, reducing manual processing time and improving data accuracy.
+
+---
+
+### 8. Amazon Transcribe
+- **Purpose**: An automated speech recognition (ASR) service that converts audio and video files into text, enabling applications to transcribe meetings, calls, and media.
+
+#### Key Features:
+- Supports real-time and batch transcription.
+- Can transcribe audio and video files in multiple languages.
+- Integrates with AWS services for data processing and analysis.
+
+#### Real-Life Example:
+A media company uses Amazon Transcribe to transcribe podcasts and videos, making it easier for users to search and access content.
+
+---
+
+### 9. Amazon Translate
+- **Purpose**: A neural machine translation service that enables applications to translate text and speech in real-time, breaking language barriers.
+
+#### Key Features:
+- Supports translation in multiple languages.
+- Can translate text, speech, and websites.
+- Integrates with AWS services for data processing and analysis.
+
+#### Real-Life Example:
+A travel company uses Amazon Translate to provide real-time language translation for its customers, enhancing their travel experience and improving customer satisfaction.
+
+---
+
+
+---
+
 ## 📚 Additional Resources
 - [Amazon Comprehend Documentation](https://aws.amazon.com/comprehend/)
 - [Amazon Kendra Documentation](https://aws.amazon.com/kendra/)
