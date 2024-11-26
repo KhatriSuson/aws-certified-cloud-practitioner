@@ -3,6 +3,29 @@
 This section covers essential AWS services for Application Integration, a critical domain in cloud computing. These services enable seamless communication between distributed systems and decouple components to ensure scalability and fault tolerance.
 
 ## 🚀 Application Integration Services
+# AWS Certified Cloud Practitioner - Application Integration
+
+This document outlines the AWS services related to Application Integration that are important for the AWS Certified Cloud Practitioner exam. Understanding these services will help you grasp how applications can communicate and work together in the cloud.
+
+## Application Integration Services
+
+Here are the key AWS services for application integration, along with their primary functions:
+
+1. **Amazon EventBridge**
+   - **Function**: A serverless event bus service that allows you to connect applications using events. It helps in building event-driven architectures by routing events from various sources (such as AWS services, custom applications, and SaaS applications) to targets like AWS Lambda, Amazon SNS, and more.
+
+2. **Amazon Simple Notification Service (Amazon SNS)**
+   - **Function**: A fully managed messaging service that enables you to send messages to multiple subscribers or other applications. SNS supports various message formats and transports, including SMS, email, and application notifications, making it ideal for building loosely coupled, distributed systems.
+
+3. **Amazon Simple Queue Service (Amazon SQS)**
+   - **Function**: A fully managed message queuing service that enables decoupling and scaling of microservices, distributed systems, and serverless applications. SQS allows you to send, store, and receive messages between software components at any volume without losing messages.
+
+4. **AWS Step Functions**
+   - **Function**: A serverless orchestration service that allows you to coordinate multiple AWS services into serverless workflows. Step Functions lets you define workflows using state machines, enabling you to manage the flow of data and control the execution of tasks across AWS services.
+
+---
+
+For further details and updates on these services, please refer to the official AWS documentation.
 
 ### 1. Amazon EventBridge
 - **Purpose**: A serverless event bus service for connecting applications using events.
