@@ -3,6 +3,7 @@
 This section covers essential AWS services for Application Integration, a critical domain in cloud computing. These services enable seamless communication between distributed systems and decouple components to ensure scalability and fault tolerance.
 
 ## 🚀 Application Integration Services
+
 # AWS Certified Cloud Practitioner - Application Integration
 
 This document outlines the AWS services related to Application Integration that are important for the AWS Certified Cloud Practitioner exam. Understanding these services will help you grasp how applications can communicate and work together in the cloud.
@@ -23,9 +24,7 @@ Here are the key AWS services for application integration, along with their prim
 4. **AWS Step Functions**
    - **Function**: A serverless orchestration service that allows you to coordinate multiple AWS services into serverless workflows. Step Functions lets you define workflows using state machines, enabling you to manage the flow of data and control the execution of tasks across AWS services.
 
----
 
-For further details and updates on these services, please refer to the official AWS documentation.
 
 ### 1. Amazon EventBridge
 - **Purpose**: A serverless event bus service for connecting applications using events.
